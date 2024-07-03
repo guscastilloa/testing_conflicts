@@ -4,4 +4,4 @@
 - Este texto salió de la rama "FixStoryAgain" 
 - Esto también
 - Antes de esto no había nada
-- cambio
+- cambio desde GitHub en Google Chrome
